@@ -1,0 +1,18 @@
+StringID   Type       x          y          demand     DeliveryDemand  PickupDemand  DivisionRate ReadyTime  DueDate    ServiceTime
+D0         d          50.0       150.0      0.0        0.0             0.0           0            0.0        9999.0     0.0
+S6         s          50.0       75.0       0.0        0.0             0.0           0            0.0        9999.0     0.0
+F18        f          5.0        39.0       0.0        0.0             0.0           0            0.0        9999.0     0.0
+F15        f          22.0       58.0       0.0        0.0             0.0           0            0.0        9999.0     0.0
+F10        f          74.0       39.0       0.0        0.0             0.0           0            0.0        9999.0     0.0
+C21        c          45.0       10.0       18.0       4.0             14.0          30           881.0      1001.0     10.0
+C84        c          16.0       22.0       41.0       30.0            11.0          40           668.0      860.0      10.0
+C89        c          31.0       67.0       3.0        1.0             2.0           25           648.0      752.0      10.0
+C92        c          18.0       24.0       22.0       17.0            5.0           45           681.0      759.0      10.0
+C96        c          25.0       21.0       12.0       10.0            2.0           45           682.0      752.0      10.0
+
+L Large vehicle loading capacity /2000.0/
+C Electric vehicle loading capacity /250.0/
+Q Electric vehicle battery capacity /187.86/
+r Fuel consumption rate /1.0/
+g Inverse refueling rate /0.16/
+v Average velocity /1.0/
